@@ -53,3 +53,6 @@ Center chunk: -12, -26　最も中心となるチャンクの座標
 Center block: -184, -408　最も中心となるブロックの座標
 以下すべての数値 すべてのスライムチャンクの座標
 を表しています。
+
+https://www.chunkbase.com/apps/slime-finder
+slime-finderサイトにてシード値を同じもの、座標にCenter blockと同じ値を入力してご確認ください。
