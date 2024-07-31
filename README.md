@@ -1,2 +1,0 @@
-- 👋 Hi, I’m @s41m-123
-- 🎮 Developing the code for the game

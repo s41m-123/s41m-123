@@ -1,0 +1,9 @@
+Slime_Chunk_Finder の使い方
+Python環境を作成してください。
+Slime_Chunk_Finder.pyコードをDLしてください。
+cmdプロントで「python Slime_Chunk_Finder.py」で実行できます。
+
+Slime_Chunk_Finderコードの説明
+メイン関数にある「seed = 」にて探したいMinecraftのシード値を入力してください
+「distance = 」で探索範囲の半径（ブロック単位）を変更することができます。
+→値を100~10000をお勧めします。
