@@ -1,7 +1,7 @@
 Slime_Chunk_Finder の使い方
 Python環境を作成してください。
 Slime_Chunk.pyをDLしてください。
-cmdプロントで「python Slime_Chunk.py」で実行できます。
+cmdプロントで「python Slime_Chunk_Finder.py」で実行できます。
 
 Slime_Chunk_Finderコードの説明
 メイン関数にある「seed = 」にて探したいMinecraftのシード値を入力してください
