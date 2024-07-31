@@ -37,7 +37,7 @@ def is_slime_chunk(seed: int, x_position: int, z_position: int) -> bool:
 
 # メイン関数
 def main():
-    seed = # Minecraftのシード値
+    seed = -8888 # Minecraftのシード値
     center = (0, 0)
     distance = 1000 # 探索範囲の半径（ブロック単位）
 
